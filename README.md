@@ -47,6 +47,13 @@ in several formats all produced from the single source:
 
 2016 Edition - Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
 
+    # Story of the Door
+    
+    Mr. Utterson the lawyer was a man of a rugged countenance, that was never lighted by a smile; cold, scanty and embarrassed in
+    discourse; backward in sentiment; lean, long, dusty, dreary, and yet somehow lovable...
+
+(Source: [`/dr-jekyll-and-mr-hyde`](https://github.com/manuscripts/dr-jekyll-and-mr-hyde))
+
 - [Git Book Theme](http://bookdesigns.github.io/book-git) by Mathieu David
 - [Rust Book Theme](http://bookdesigns.github.io/book-rust) by Steve Klabnik
 - [Hamilton (Franklin) Book Theme](http://bookdesigns.github.io/book-hamilton) by Bryan Braun
