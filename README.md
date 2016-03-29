@@ -17,7 +17,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks!
 
 ## Single Source Publishing - One Text, Many Formats
 
-Text => HTML, PDF, LaTeX, and More. Examples:
+Text => HTML, PDF, LaTeX, DOCX, ODF, and More. Examples:
 
 - [Tau Manifesto](http://tauday.com/tau-manifesto) - [`tau.text`](samples/tau.text)
   - HTML => `tau.html`
@@ -29,7 +29,7 @@ Text => HTML, PDF, LaTeX, and More. Examples:
 Examples:
 
 - See [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs 
-  - 2016: Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+  - 2016 Edition - Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
 - See [The Zen of Page Designs](https://github.com/pagedesigns) - One Page, Many Designs
 
 
