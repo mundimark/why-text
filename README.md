@@ -1,6 +1,6 @@
 # Why Text? Why Markdown? 
 
-Welcome. A collection of arguments why good old text is the past, present and future
+Welcome. A collection of arguments why text is the past, present and future
 of writing and publishing.
 
 
@@ -15,18 +15,21 @@ Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manusc
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks! 
 
-## Single Source Publishing - One Text, Many Formats & Designs
+## Single Source Publishing - One Text, Many Formats
 
-One Text, Many Formats e.g. HTML, PDF, LaTeX, and More. Examples:
+Text => HTML, PDF, LaTeX, and More. Examples:
 
 - [Tau Manifesto](http://tauday.com/tau-manifesto) - [`tau.text`](samples/tau.text)
   - HTML => `tau.html`
   - PDF  => `tau.pdf` (via LaTeX => `tau.tex`)
   - DOCX => `tau.docx`
 
-One Text, Many Designs. Examples:
+## Single Source Publishing - One Text, Many Designs
 
-- See [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs - 2016: Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+Examples:
+
+- See [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs 
+  - 2016: Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
 - See [The Zen of Page Designs](https://github.com/pagedesigns) - One Page, Many Designs
 
 
@@ -50,7 +53,11 @@ No "Special" What-You-See-Is-What-You-Get Word Processor De Jour Required
 No Binary Black Box Format or "Open" XML Haystack
 
 
-## Easy to Learn - Learn in 5 Minutes
+## Easy to Learn - Learn Formatting Basics in 5 Minutes
+
+- [Learn Markdown in 60 Seconds](http://commonmark.org/help) - cheat sheet, quick reference
+- [Learn Markdown in 10 Minutes](http://commonmark.org/help/tutorial) - interactive tutorial - lessons include emphasis, paragraphs, headings, links, images, code, blockquotes, lists and more
+- [Learn Markdown in Y Minutes](https://learnxinyminutes.com/docs/markdown) - quick reference in markdown
 
 
 ## Presentations
