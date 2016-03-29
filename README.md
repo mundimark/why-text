@@ -19,10 +19,26 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks!
 
 Text => HTML, LaTeX, PDF, ODF, DOCX, and More. Examples:
 
-- [Latin Alphabet - Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet) (Source: [`abc.text`](samples/abc.text))
-  - HTML => `abc.html`
-  - PDF  => `abc.pdf` (via LaTeX => `abc.tex`)
-  - DOCX => `abc.docx`
+[Latin Alphabet - Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet)
+
+    # Latin alphabet
+    
+    The classical Latin alphabet, also known as the Roman alphabet, is a writing system that evolved
+    from the visually similar Cumaean Greek version of the Greek alphabet. The Greek alphabet,
+    including the Cumaean version, descended from the Phoenician abjad while The Phoenician alphabet
+    is derived from Egyptian hieroglyphics [^1].
+    
+    ...
+    
+    [^1]: Michael C. Howard (2012), Transnationalism in Ancient and Medieval Societies. pp. 23
+
+(Source: [`abc.text`](samples/abc.text))
+
+in several formats all produced from the single source:
+
+- HTML => `abc.html`
+- PDF  => `abc.pdf` (via LaTeX => `abc.tex`)
+- DOCX => `abc.docx`
 
 
 ## Single Source Publishing - One Text, Many Designs
