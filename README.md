@@ -19,7 +19,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks!
 
 Text => HTML, LaTeX, PDF, ODF, DOCX, and More. Examples:
 
-- [Latin alphabet](https://en.wikipedia.org/wiki/Latin_alphabet) - [`alphabet.text`](samples/abc.text)
+- [Latin Alphabet Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet) - [`alphabet.text`](samples/abc.text)
   - HTML => `abc.html`
   - PDF  => `abc.pdf` (via LaTeX => `abc.tex`)
   - DOCX => `abc.docx`
