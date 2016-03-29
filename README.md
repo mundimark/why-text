@@ -71,7 +71,7 @@ _World Wide Web, Apple OS X, Microsoft Window, Linux, and Friends_
 
 ## It's Just Text - No Copyright, No License, No Rights Reserved
 
-_Free ABC-Like or 123-Like Public Domain Formatting Conventions for Everyone_
+_Free ABC-Like or 123-Like Public Domain Writing (and Formatting) Conventions for Everyone_
 
 
 ## It's Just Text - Works like the ABC - Will Still Work in 1000+ Years 
