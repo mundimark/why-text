@@ -17,9 +17,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks!
 
 ## Single Source Publishing - One Text, Many Formats
 
-Text => HTML, LaTeX, PDF, ODF, DOCX, and More. Examples:
+_HTML, LaTeX, PDF, ODF, DOCX, and More_
 
-[Latin Alphabet - Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet)
+Example #1 - [Latin Alphabet - Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet)
 
     # Latin alphabet
     
@@ -43,31 +43,32 @@ in several formats all produced from the single source:
 
 ## Single Source Publishing - One Text, Many Designs
 
-Examples:
+Example #1 - [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs 
 
-- See [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs 
-  - 2016 Edition - Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
-- See [The Zen of Page Designs](https://github.com/pagedesigns) - One Page, Many Designs
+2016 Edition - Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+
+Example #2 - [The Zen of Page Designs](https://github.com/pagedesigns) - One Page, Many Designs
 
 
 
 ## It's Just Text - Works Anywhere 
 
-World Wide Web, Apple OS X, Microsoft Window, Linux, and Friends
+_World Wide Web, Apple OS X, Microsoft Window, Linux, and Friends_
 
 
 ## It's Just Text - No Copyright, No License, No Rights Reserved
 
-Free ABC-Like or 123-Like Public Domain Formatting Conventions for Everyone
+_Free ABC-Like or 123-Like Public Domain Formatting Conventions for Everyone_
 
 
 ## It's Just Text - Works like the ABC - Will Still Work in 1000+ Years 
 
-No "Special" What-You-See-Is-What-You-Get Word Processor De Jour Required 
+_No "Special" What-You-See-Is-What-You-Get Word Processor De Jour Required_ 
+
 
 ## It's Just Text - Minimalistic File Size - Fault Tolerant "What-You-See-Is-What-You-Get" Literally 
 
-No Binary Black Box Format or "Open" XML Haystack
+_No Binary Black Box Format or "Open" XML Haystack_
 
 
 ## Easy to Learn - Learn Formatting Basics in 5 Minutes
