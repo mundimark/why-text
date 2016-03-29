@@ -19,12 +19,15 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks!
 
 One Text, Many Formats e.g. HTML, PDF, LaTeX, and More. Examples:
 
-- 
+- [Tau Manifesto](http://tauday.com/tau-manifesto) - [`tau.text`](samples/tau.text)
+  - HTML => `tau.html`
+  - PDF  => `tau.pdf` (via LaTeX => `tau.tex`)
+  - DOCX => `tau.docx`
 
 One Text, Many Designs. Examples:
 
-- See the Zen of Book Designs (One Book, Many Designs)
-- See the Zen of Page Designs (One Page, Many Designs)
+- See [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs - 2016: Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+- See [The Zen of Page Designs](https://github.com/pagedesigns) - One Page, Many Designs
 
 
 
@@ -62,6 +65,19 @@ No Binary Black Box Format or "Open" XML Haystack
 
 ## Unicode Scripts - One Text, Many Languages
 
+
+
+
+
+## Meta
+
+**License**
+
+The Why Text? Why Markdown? list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**Questions? Comments?**
+
+Send them along to the [wwwmake mailing list](http://groups.google.com/group/wwwmake). Thanks!
 
 
 
