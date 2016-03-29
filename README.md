@@ -17,12 +17,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks!
 
 ## Single Source Publishing - One Text, Many Formats
 
-Text => HTML, PDF, LaTeX, DOCX, ODF, and More. Examples:
+Text => HTML, LaTeX, PDF, ODF, DOCX, and More. Examples:
 
-- [Tau Manifesto](http://tauday.com/tau-manifesto) - [`tau.text`](samples/tau.text)
-  - HTML => `tau.html`
-  - PDF  => `tau.pdf` (via LaTeX => `tau.tex`)
-  - DOCX => `tau.docx`
+- [Latin alphabet](https://en.wikipedia.org/wiki/Latin_alphabet) - [`alphabet.text`](samples/abc.text)
+  - HTML => `abc.html`
+  - PDF  => `abc.pdf` (via LaTeX => `abc.tex`)
+  - DOCX => `abc.docx`
 
 ## Single Source Publishing - One Text, Many Designs
 
