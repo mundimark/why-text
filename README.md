@@ -12,17 +12,18 @@ Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manusc
 
 ---
 
-
 Contributions welcome. Anything missing? Send in a pull request. Thanks! 
+
 
 ## Single Source Publishing - One Text, Many Formats
 
 Text => HTML, LaTeX, PDF, ODF, DOCX, and More. Examples:
 
-- [Latin Alphabet Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet) - [`alphabet.text`](samples/abc.text)
+- [Latin Alphabet - Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet) (Source: [`abc.text`](samples/abc.text))
   - HTML => `abc.html`
   - PDF  => `abc.pdf` (via LaTeX => `abc.tex`)
   - DOCX => `abc.docx`
+
 
 ## Single Source Publishing - One Text, Many Designs
 
