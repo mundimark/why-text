@@ -19,7 +19,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks!
 
 _HTML, LaTeX, PDF, ODF, DOCX, and More_
 
-Example #1 - [Latin Alphabet - Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet)
+**Example #1 - [Latin Alphabet - Wikipedia Article](https://en.wikipedia.org/wiki/Latin_alphabet)**
 
     # Latin alphabet
     
@@ -43,11 +43,17 @@ in several formats all produced from the single source:
 
 ## Single Source Publishing - One Text, Many Designs
 
-Example #1 - [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs 
+**Example #1 - [The Zen of Book Designs](https://github.com/bookdesigns) - One Book, Many Designs** 
 
 2016 Edition - Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
 
-Example #2 - [The Zen of Page Designs](https://github.com/pagedesigns) - One Page, Many Designs
+- [Git Book Theme](http://bookdesigns.github.io/book-git) by Mathieu David
+- [Rust Book Theme](http://bookdesigns.github.io/book-rust) by Steve Klabnik
+- [Hamilton (Franklin) Book Theme](http://bookdesigns.github.io/book-hamilton) by Bryan Braun
+- [Epsilon (Franklin) Book Theme](http://bookdesigns.github.io/book-epsilon) by Bryan Braun
+- ...
+
+**Example #2 - [The Zen of Page Designs](https://github.com/pagedesigns) - One Page, Many Designs**
 
 
 
